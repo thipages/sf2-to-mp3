@@ -1,0 +1,31 @@
+{
+  "name": "@titsoft/sf2-to-mp3",
+  "version": "1.0.0",
+  "description": "Automatic conversion of SF2 to MP3",
+  "keywords": [
+    "sf2",
+    "mp3",
+    "midi",
+    "wav",
+    "fluidsynth",
+    "lame",
+    "ffmpeg",
+    "conversion",
+    "audio"
+  ],
+  "homepage": "https://github.com/thipages/sf2-to-mp3#readme",
+  "bugs": {
+    "url": "https://github.com/thipages/sf2-to-mp3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thipages/sf2-to-mp3.git"
+  },
+  "license": "MIT",
+  "author": "Thierry PAGES",
+  "type": "module",
+  "main": "sf2-to-mp3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "FLUIDSYNTH": "softwares/fluidsynth-2.4.6-win10-x64/bin/fluidsynth.exe",
+  "LAME": "softwares/lame3.100.1-x64/lame.exe",
+  "FFMPEG": "softwares/ffmpeg/bin/ffmpeg.exe",
+  "MIDI_DIR": "midis"
+}
