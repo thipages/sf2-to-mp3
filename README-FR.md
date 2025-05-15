@@ -34,7 +34,7 @@ Modifiez les chemins dans `config.json` si besoin.
 ```
 
 ## 📁 Structure attendue
-.
+```
 ├── sf2-to-mp3.js 
 |── config.json
 ├── midis/  
@@ -53,7 +53,7 @@ Modifiez les chemins dans `config.json` si besoin.
     └── ffmpeg/  
         └── bin/  
             └── ffmpeg.exe  
-
+```
 ## ⚙️ Utilisation
 
 node sf2-to-mp3.js <chemin/vers/dossier_sf2> [option]

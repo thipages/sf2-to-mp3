@@ -35,7 +35,7 @@ Edit paths in `config.json` if needed.
 
 ## 📁 Expected structure
 
-.
+```
 ├── sf2-to-mp3.js  
 |── config.json
 ├── midis/  
@@ -54,6 +54,7 @@ Edit paths in `config.json` if needed.
     └── ffmpeg/  
         └── bin/  
             └── ffmpeg.exe  
+```
 
 ## ⚙️ Usage
 
