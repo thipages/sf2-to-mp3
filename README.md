@@ -3,3 +3,5 @@
 ## [Documentation en français](README-FR.md)
 
 ## [English documentation](README-EN.md)
+
+## [MIDI -> Note](midi-to-letter-notation.md)
